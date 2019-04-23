@@ -1,9 +1,9 @@
 {
   "friend": [
     {
-      "name": "博客",
-      "url": "http://buhuibaidu.me",
-      "description": "buhuibaidu.me"
+      "name": "哔哩哔哩",
+      "url": "http://bilibili.com",
+      "description": "bilibili.com"
     },
     {
       "name": "V2EX",
@@ -13,7 +13,7 @@
     {
       "name": "GITHUB",
       "url": "https://github.com/",
-      "description": "同性交友"
+      "description": "github.com"
     },
     {
       "name": "STACKOVERFLOW",
