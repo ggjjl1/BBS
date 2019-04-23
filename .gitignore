@@ -2,3 +2,5 @@
 .classpath
 honey.iml
 env-config.properties
+.idea/
+target/
